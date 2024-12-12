@@ -1,4 +1,4 @@
-streamlit==1.26.0
-streamlit-option-menu==0.3.5
-PyPDF2==3.0.1
-textblob==0.17.1
+streamlit
+streamlit-option-menu
+PyPDF2
+textblob
